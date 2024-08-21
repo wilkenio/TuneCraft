@@ -19,5 +19,3 @@
 - **Banco de Dados**: MongoDB
 - **APIs de Música**: Integração com APIs para reprodução de músicas
 - **Outros**: Web Audio API, Canvas API para visualização de tablaturas
-
-
